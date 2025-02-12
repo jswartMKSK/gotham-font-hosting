@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Gotham';
+    src: url('https://github.com/jswartMKSK/gotham-font-hosting/blob/main/GothamBold.woff') format('woff'),
+         url('https://github.com/jswartMKSK/gotham-font-hosting/blob/main/GothamBold.woff2') format('woff'),
+      url('https://github.com/jswartMKSK/gotham-font-hosting/blob/main/GothamLight.woff') format('woff'),
+      url('https://github.com/jswartMKSK/gotham-font-hosting/blob/main/GothamLight.woff2') format('woff2'),
+      url('https://github.com/jswartMKSK/gotham-font-hosting/blob/main/Gotham-Book.woff') format('woff'),
+      url('https://github.com/jswartMKSK/gotham-font-hosting/blob/main/Gotham-Book.woff2') format('woff2'),
+      url('https://github.com/jswartMKSK/gotham-font-hosting/blob/main/Gotham-BookItalic.woff') format('woff'),
+      url('https://github.com/jswartMKSK/gotham-font-hosting/blob/main/Gotham-BookItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Gotham', sans-serif;
+}
